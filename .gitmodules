@@ -1,0 +1,3 @@
+[submodule "np"]
+	path = np
+	url = https://github.com/kilal-ea/np
